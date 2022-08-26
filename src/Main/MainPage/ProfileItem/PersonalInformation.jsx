@@ -1,6 +1,6 @@
 import React from "react";
 import Moment from 'react-moment';
-import Rectangle from "/Users/nikolaj/Desktop/Taptima/taptima-app/src/Rectangle.png"
+
 
 const PersonalInformation = ({state})=>{
     return(
@@ -24,7 +24,7 @@ const PersonalInformation = ({state})=>{
                 <Moment format="YYYY-MM-DD HH:mm" interval={1000} />
                 </div>
             </div>
-            <img className="personalImg" src={Rectangle} alt={state.map(s=>s.firstName)}/>
+            <img className="personalImg" src="#" alt={state.map(s=>s.firstName)}/>
         </div>
         <div className="personalButton">
             <button className="thePersonalButton">UPLOAD PICTURE</button>
