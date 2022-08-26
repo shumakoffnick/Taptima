@@ -1,6 +1,6 @@
 import React from "react";
 import Moment from 'react-moment';
-import Rectangle from "/Users/nikolaj/Desktop/Taptima/taptima-app/src/img/Rectangle.png"
+import Rectangle from "/Users/nikolaj/Desktop/Taptima/taptima-app/src/Rectangle.png"
 
 const PersonalInformation = ({state})=>{
     return(
