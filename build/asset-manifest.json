@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Taptima/static/css/main.279f2fa4.css",
-    "main.js": "/Taptima/static/js/main.662e540f.js",
-    "static/js/787.c679a1a4.chunk.js": "/Taptima/static/js/787.c679a1a4.chunk.js",
-    "static/media/Oval.png": "/Taptima/static/media/Oval.c53fe9fd8d923fd44b41.png",
-    "index.html": "/Taptima/index.html",
-    "main.279f2fa4.css.map": "/Taptima/static/css/main.279f2fa4.css.map",
-    "main.662e540f.js.map": "/Taptima/static/js/main.662e540f.js.map",
-    "787.c679a1a4.chunk.js.map": "/Taptima/static/js/787.c679a1a4.chunk.js.map"
+    "main.css": "./static/css/main.279f2fa4.css",
+    "main.js": "./static/js/main.4155c4b9.js",
+    "static/js/787.c679a1a4.chunk.js": "./static/js/787.c679a1a4.chunk.js",
+    "static/media/Oval.png": "./static/media/Oval.c53fe9fd8d923fd44b41.png",
+    "index.html": "./index.html",
+    "main.279f2fa4.css.map": "./static/css/main.279f2fa4.css.map",
+    "main.4155c4b9.js.map": "./static/js/main.4155c4b9.js.map",
+    "787.c679a1a4.chunk.js.map": "./static/js/787.c679a1a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.279f2fa4.css",
-    "static/js/main.662e540f.js"
+    "static/js/main.4155c4b9.js"
   ]
 }
