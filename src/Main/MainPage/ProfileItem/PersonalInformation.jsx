@@ -9,7 +9,7 @@ const PersonalInformation = ({state})=>{
         <div className="personalBlock">
             <div className="personalInfo">
                 <div className="personalName">
-                    <div className="personalTitle">{state.map(s=><div>{s.firstName}</div>)}</div>
+                    <div className="personalTitle">{state.map(s=><div >{s.firstName}</div>)}</div>
                     <div className="personalTitleSecond">{state.map(s=><div>{s.secondName}</div>)}</div>
                 </div>
                 <div className="personalLocation">

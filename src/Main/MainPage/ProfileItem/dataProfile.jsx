@@ -7,6 +7,7 @@ const dataProfile = [
         country: "Romania",
         city: "Ramnicu Valcea",
         phone: "0752549328",
+        id: Math.random()
     }] 
 
 
